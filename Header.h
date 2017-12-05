@@ -3,8 +3,6 @@
 using namespace std;
 #define Pi 3.141592653589793
 
-
-
 //გრადუსების რადიანებში გადაყვანა
 constexpr
 double degreeToRadian(double deg) noexcept
